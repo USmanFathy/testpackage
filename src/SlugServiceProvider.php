@@ -1,5 +1,5 @@
 <?php
-namespace multiaction\multiaction;
+namespace multiaction;
 
 use Illuminate\Support\ServiceProvider;
 
