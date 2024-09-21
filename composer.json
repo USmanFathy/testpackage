@@ -9,12 +9,12 @@
     },
     "autoload": {
         "psr-4": {
-            "multiaction\\multiaction\\": "src/"
+            "multiaction\\": "src/"
         }
     },
     "extra": {
         "laravel": {
-            "providers": "multiaction\\multiaction\\SlugServiceProvider"
+            "providers": "multiaction\\SlugServiceProvider"
         }
     }
 }
